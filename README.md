@@ -1,6 +1,8 @@
+Clone the repo and open in the IDE
+
 Run this project as a java application by selecting Run from 'Run' dropdown OR
 
-To run tests you need to install maven and git.
+To run as maven tests install maven and git.
 
 To run tests:
  $ mvn clean test
