@@ -1,0 +1,88 @@
+{
+  "uid" : "bcbb6a1b87cbba64",
+  "name" : "And I verify \"Orpington Station\" is visible on filters page",
+  "fullName" : "As a guest on the rightmove website I want to search for properties in a particular area.And I verify \"Orpington Station\" is visible on filters page",
+  "historyId" : "c9b1e29de127b4706ebae62d43711fb3",
+  "time" : {
+    "start" : 1529875716362,
+    "stop" : 1529875716362,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Orpington Station",
+      "time" : {
+        "start" : 1529875716269,
+        "stop" : 1529875716270,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Undefined Feature"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "LalithaBPRetina"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "story",
+    "value" : "As a guest on the rightmove website I want to search for properties in a particular area"
+  }, {
+    "name" : "thread",
+    "value" : "88420@LalithaBPRetina.main(1)"
+  }, {
+    "name" : "suite",
+    "value" : "As a guest on the rightmove website I want to search for properties in a particular area"
+  }, {
+    "name" : "testClass",
+    "value" : "As a guest on the rightmove website I want to search for properties in a particular area"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I verify \"Orpington Station\" is visible on filters page"
+  }, {
+    "name" : "package",
+    "value" : "As a guest on the rightmove website I want to search for properties in a particular area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bcbb6a1b87cbba64.json",
+  "parameterValues" : [ ]
+}

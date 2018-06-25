@@ -1,0 +1,109 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LalithaBPRetina",
+    "children" : [ {
+      "name" : "88420@LalithaBPRetina.main(1)",
+      "children" : [ {
+        "name" : "Then I select the first proeprty and verify that I am seeing the details of my selected property",
+        "uid" : "11106a3129363064",
+        "parentUid" : "6b6680cfd82508f08062acac8750176b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1529875736065,
+          "stop" : 1529875736065,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Then I verify that I see results for search",
+        "uid" : "95bc95d053aa1386",
+        "parentUid" : "6b6680cfd82508f08062acac8750176b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1529875732840,
+          "stop" : 1529875732840,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "And click on 'find properties'",
+        "uid" : "52572d10eac66e22",
+        "parentUid" : "6b6680cfd82508f08062acac8750176b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1529875732795,
+          "stop" : 1529875732796,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "And I verify \"Orpington Station\" is visible on filters page",
+        "uid" : "bcbb6a1b87cbba64",
+        "parentUid" : "6b6680cfd82508f08062acac8750176b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1529875716362,
+          "stop" : 1529875716362,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Then set the search results to 'newest listed'",
+        "uid" : "85b22ea5d8ca7efb",
+        "parentUid" : "6b6680cfd82508f08062acac8750176b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1529875734995,
+          "stop" : 1529875734995,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "When I do a sale search for \"Orpington Station\"",
+        "uid" : "1b94dd707e29b873",
+        "parentUid" : "6b6680cfd82508f08062acac8750176b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1529875716264,
+          "stop" : 1529875716265,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "And I set the filters to shortlist the houses",
+        "uid" : "1a08fc2582b97d72",
+        "parentUid" : "6b6680cfd82508f08062acac8750176b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1529875729370,
+          "stop" : 1529875729370,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Given I am on rightmove homepage",
+        "uid" : "72c883458389fe37",
+        "parentUid" : "6b6680cfd82508f08062acac8750176b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1529875713079,
+          "stop" : 1529875713080,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6b6680cfd82508f08062acac8750176b"
+    } ],
+    "uid" : "672f76d49f4a689e99da3117a291c664"
+  } ]
+}

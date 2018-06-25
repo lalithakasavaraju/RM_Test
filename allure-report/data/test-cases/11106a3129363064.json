@@ -1,0 +1,63 @@
+{
+  "uid" : "11106a3129363064",
+  "name" : "Then I select the first proeprty and verify that I am seeing the details of my selected property",
+  "fullName" : "As a guest on the rightmove website I want to search for properties in a particular area.Then I select the first proeprty and verify that I am seeing the details of my selected property",
+  "historyId" : "a677cf8636c69e78a99001f5a631a70d",
+  "time" : {
+    "start" : 1529875736065,
+    "stop" : 1529875736065,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Undefined Feature"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "LalithaBPRetina"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "story",
+    "value" : "As a guest on the rightmove website I want to search for properties in a particular area"
+  }, {
+    "name" : "thread",
+    "value" : "88420@LalithaBPRetina.main(1)"
+  }, {
+    "name" : "suite",
+    "value" : "As a guest on the rightmove website I want to search for properties in a particular area"
+  }, {
+    "name" : "testClass",
+    "value" : "As a guest on the rightmove website I want to search for properties in a particular area"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I select the first proeprty and verify that I am seeing the details of my selected property"
+  }, {
+    "name" : "package",
+    "value" : "As a guest on the rightmove website I want to search for properties in a particular area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "11106a3129363064.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,63 @@
+{
+  "uid" : "1b94dd707e29b873",
+  "name" : "When I do a sale search for \"Orpington Station\"",
+  "fullName" : "As a guest on the rightmove website I want to search for properties in a particular area.When I do a sale search for \"Orpington Station\"",
+  "historyId" : "8fb79e3bdfb2fab41fa54124c9e0b4b2",
+  "time" : {
+    "start" : 1529875716264,
+    "stop" : 1529875716265,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Undefined Feature"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "LalithaBPRetina"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "story",
+    "value" : "As a guest on the rightmove website I want to search for properties in a particular area"
+  }, {
+    "name" : "thread",
+    "value" : "88420@LalithaBPRetina.main(1)"
+  }, {
+    "name" : "suite",
+    "value" : "As a guest on the rightmove website I want to search for properties in a particular area"
+  }, {
+    "name" : "testClass",
+    "value" : "As a guest on the rightmove website I want to search for properties in a particular area"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I do a sale search for \"Orpington Station\""
+  }, {
+    "name" : "package",
+    "value" : "As a guest on the rightmove website I want to search for properties in a particular area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1b94dd707e29b873.json",
+  "parameterValues" : [ ]
+}

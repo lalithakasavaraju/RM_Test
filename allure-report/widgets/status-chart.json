@@ -1,0 +1,81 @@
+[ {
+  "uid" : "11106a3129363064",
+  "name" : "Then I select the first proeprty and verify that I am seeing the details of my selected property",
+  "time" : {
+    "start" : 1529875736065,
+    "stop" : 1529875736065,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "95bc95d053aa1386",
+  "name" : "Then I verify that I see results for search",
+  "time" : {
+    "start" : 1529875732840,
+    "stop" : 1529875732840,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52572d10eac66e22",
+  "name" : "And click on 'find properties'",
+  "time" : {
+    "start" : 1529875732795,
+    "stop" : 1529875732796,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bcbb6a1b87cbba64",
+  "name" : "And I verify \"Orpington Station\" is visible on filters page",
+  "time" : {
+    "start" : 1529875716362,
+    "stop" : 1529875716362,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "85b22ea5d8ca7efb",
+  "name" : "Then set the search results to 'newest listed'",
+  "time" : {
+    "start" : 1529875734995,
+    "stop" : 1529875734995,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b94dd707e29b873",
+  "name" : "When I do a sale search for \"Orpington Station\"",
+  "time" : {
+    "start" : 1529875716264,
+    "stop" : 1529875716265,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1a08fc2582b97d72",
+  "name" : "And I set the filters to shortlist the houses",
+  "time" : {
+    "start" : 1529875729370,
+    "stop" : 1529875729370,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72c883458389fe37",
+  "name" : "Given I am on rightmove homepage",
+  "time" : {
+    "start" : 1529875713079,
+    "stop" : 1529875713080,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

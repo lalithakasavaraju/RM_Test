@@ -1,0 +1,63 @@
+{
+  "uid" : "85b22ea5d8ca7efb",
+  "name" : "Then set the search results to 'newest listed'",
+  "fullName" : "As a guest on the rightmove website I want to search for properties in a particular area.Then set the search results to 'newest listed'",
+  "historyId" : "6748e0db83ec51bb3fd72e717cb93934",
+  "time" : {
+    "start" : 1529875734995,
+    "stop" : 1529875734995,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Undefined Feature"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "LalithaBPRetina"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "story",
+    "value" : "As a guest on the rightmove website I want to search for properties in a particular area"
+  }, {
+    "name" : "thread",
+    "value" : "88420@LalithaBPRetina.main(1)"
+  }, {
+    "name" : "suite",
+    "value" : "As a guest on the rightmove website I want to search for properties in a particular area"
+  }, {
+    "name" : "testClass",
+    "value" : "As a guest on the rightmove website I want to search for properties in a particular area"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then set the search results to 'newest listed'"
+  }, {
+    "name" : "package",
+    "value" : "As a guest on the rightmove website I want to search for properties in a particular area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "85b22ea5d8ca7efb.json",
+  "parameterValues" : [ ]
+}

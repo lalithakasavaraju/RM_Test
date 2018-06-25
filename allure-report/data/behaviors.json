@@ -1,0 +1,109 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Undefined Feature",
+    "children" : [ {
+      "name" : "As a guest on the rightmove website I want to search for properties in a particular area",
+      "children" : [ {
+        "name" : "Given I am on rightmove homepage",
+        "uid" : "72c883458389fe37",
+        "parentUid" : "e4659bc219fbbe98e9f0fa68d2de8fcd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1529875713079,
+          "stop" : 1529875713080,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "When I do a sale search for \"Orpington Station\"",
+        "uid" : "1b94dd707e29b873",
+        "parentUid" : "e4659bc219fbbe98e9f0fa68d2de8fcd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1529875716264,
+          "stop" : 1529875716265,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "And I verify \"Orpington Station\" is visible on filters page",
+        "uid" : "bcbb6a1b87cbba64",
+        "parentUid" : "e4659bc219fbbe98e9f0fa68d2de8fcd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1529875716362,
+          "stop" : 1529875716362,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "And I set the filters to shortlist the houses",
+        "uid" : "1a08fc2582b97d72",
+        "parentUid" : "e4659bc219fbbe98e9f0fa68d2de8fcd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1529875729370,
+          "stop" : 1529875729370,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "And click on 'find properties'",
+        "uid" : "52572d10eac66e22",
+        "parentUid" : "e4659bc219fbbe98e9f0fa68d2de8fcd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1529875732795,
+          "stop" : 1529875732796,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Then I verify that I see results for search",
+        "uid" : "95bc95d053aa1386",
+        "parentUid" : "e4659bc219fbbe98e9f0fa68d2de8fcd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1529875732840,
+          "stop" : 1529875732840,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Then set the search results to 'newest listed'",
+        "uid" : "85b22ea5d8ca7efb",
+        "parentUid" : "e4659bc219fbbe98e9f0fa68d2de8fcd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1529875734995,
+          "stop" : 1529875734995,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Then I select the first proeprty and verify that I am seeing the details of my selected property",
+        "uid" : "11106a3129363064",
+        "parentUid" : "e4659bc219fbbe98e9f0fa68d2de8fcd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1529875736065,
+          "stop" : 1529875736065,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e4659bc219fbbe98e9f0fa68d2de8fcd"
+    } ],
+    "uid" : "8f228e6c72a37a3a9e5951a3480461f8"
+  } ]
+}

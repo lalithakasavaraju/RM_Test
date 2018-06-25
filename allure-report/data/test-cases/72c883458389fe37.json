@@ -1,0 +1,88 @@
+{
+  "uid" : "72c883458389fe37",
+  "name" : "Given I am on rightmove homepage",
+  "fullName" : "As a guest on the rightmove website I want to search for properties in a particular area.Given I am on rightmove homepage",
+  "historyId" : "6a6e585ac3bec411fb77eeaae1872a87",
+  "time" : {
+    "start" : 1529875713079,
+    "stop" : 1529875713080,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Verifies whether the user is on the rightmove homepage",
+      "time" : {
+        "start" : 1529875713000,
+        "stop" : 1529875713000,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Undefined Feature"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "LalithaBPRetina"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "story",
+    "value" : "As a guest on the rightmove website I want to search for properties in a particular area"
+  }, {
+    "name" : "thread",
+    "value" : "88420@LalithaBPRetina.main(1)"
+  }, {
+    "name" : "suite",
+    "value" : "As a guest on the rightmove website I want to search for properties in a particular area"
+  }, {
+    "name" : "testClass",
+    "value" : "As a guest on the rightmove website I want to search for properties in a particular area"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on rightmove homepage"
+  }, {
+    "name" : "package",
+    "value" : "As a guest on the rightmove website I want to search for properties in a particular area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "72c883458389fe37.json",
+  "parameterValues" : [ ]
+}
