@@ -21,7 +21,7 @@ public class BrowserFactory {
     }
 
 
-   @Before
+   //@Before
     public static void openBrowser() {
         System.setProperty("webdriver.chrome.driver", "chromedriver_mac_2.40");
         driver = new ChromeDriver();
@@ -32,7 +32,7 @@ public class BrowserFactory {
         basePage.setWebDriver(driver);
     }
 
-    @After
+    //@After
     public static void closeBrowser() {
         driver.quit();
         System.out.println("Closed Browser");

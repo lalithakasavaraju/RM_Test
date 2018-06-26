@@ -23,11 +23,6 @@ public class BasePage {
         return driver.getCurrentUrl();
     }
 
-    public void clickWithJS(By button) {
-        JavascriptExecutor js = (JavascriptExecutor)driver;
-        js.executeScript("arguments[0].click();", driver.findElement(button));
-    }
-
     /**
      * Clicks on the specified button or link.
      *
@@ -47,13 +42,7 @@ public class BasePage {
      *            that needs to be entered.
      */
     public void enterText(By field, String text) {
-        // need to click first to the input field to point exactly to the input
-        // field you want to enter text
         driver.findElement(field).click();
-        driver.findElement(field).sendKeys(text);
-    }
-
-    public void enterTextForSearchFields(By field, String text) {
         driver.findElement(field).sendKeys(text);
     }
 
@@ -105,14 +94,6 @@ public class BasePage {
 
     public String getAttribute(By element, String attribute) {
         return driver.findElement(element).getAttribute(attribute);
-    }
-
-    public void clearInputFieldWithKeys(By inputField) {
-        for (int i = 0; i < 25; i++) {
-            driver.findElement(inputField).sendKeys(Keys.BACK_SPACE);
-            driver.findElement(inputField).sendKeys(Keys.DELETE);
-        }
-        sleep(2);
     }
 
     public boolean doesUrlContain(String url) {

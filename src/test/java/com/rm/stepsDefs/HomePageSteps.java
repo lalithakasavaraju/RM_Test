@@ -19,13 +19,14 @@ public class HomePageSteps extends BaseSteps {
 
     @Given("^I am on rightmove homepage$")
     public void i_am_on_rightmove_homepage() throws Throwable {
-        documentStep("Verifies whether the user is on the rightmove homepage");
+        documentStep("Verifies whether the user is on the rightmove homepage by checking url and logo");
         Assert.assertTrue(basePage.doesUrlContain("https://www.rightmove.co.uk/"));
         Assert.assertTrue(homePage.isRmLogoVisible());
     }
 
     @When("^I do a sale search for \"([^\"]*)\"$")
     public void i_do_a_sale_search_for(String name) throws Throwable {
+        documentStep("In this step, entering search term in input filed of homepage and searching");
         homePage.searchForProperties(name);
     }
 

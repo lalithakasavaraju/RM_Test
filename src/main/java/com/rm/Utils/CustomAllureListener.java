@@ -16,7 +16,6 @@ public class CustomAllureListener extends AllureRunListener {
     @Override
     public void testFailure(Failure failure) {
         super.testFailure(failure);
-        // check is needed to avoid double attaching
         if (!failure.getDescription().isSuite()) {
             saveScreenshot();
             saveBrowserLog();

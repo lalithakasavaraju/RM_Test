@@ -18,6 +18,7 @@ public class SearchResultsPageSteps extends BaseSteps {
 
     @Then("^I verify that I see results for search$")
     public void iVerifyThatISeeResultsForSearch() throws Throwable {
+        documentStep("In this step, verifying that search is showing results");
         int numOfLinksInSearchResultsHeader = searchResultsPage.getDisplayedNumberOfSearchResults();
         logString("NUmber of links present: "+ numOfLinksInSearchResultsHeader);
         Assert.assertTrue(numOfLinksInSearchResultsHeader != 0);
@@ -25,6 +26,7 @@ public class SearchResultsPageSteps extends BaseSteps {
 
     @Then("^set the search results to 'newest listed'$")
     public void set_the_search_results_to_newest_listed() throws Throwable {
+        documentStep("In this step, selecting the newest property from the sort dropdown");
         searchResultsPage.selectNewestProperty();
     }
 }
